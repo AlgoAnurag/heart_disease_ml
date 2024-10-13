@@ -2,7 +2,7 @@
 This project aims to predict the likelihood of heart disease based on medical features using machine learning models. The dataset contains information such as age, cholesterol levels, blood pressure, and more. The goal is to classify individuals as either healthy or having heart disease using various supervised learning algorithms.
 
 
-Heart Disease Prediction Using Machine Learning
+*Heart Disease Prediction Using Machine Learning*
 Overview
 This project predicts the likelihood of heart disease using machine learning models based on a dataset of 303 patient records and 14 medical attributes, including age, cholesterol level, and exercise-induced angina. The goal is to classify individuals as either healthy or at risk of heart disease.
 
